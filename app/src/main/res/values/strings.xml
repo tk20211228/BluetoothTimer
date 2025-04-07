@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BluetoothTimer</string>
+    <string name="scan_stopped">スキャン停止中</string>
+    <string name="scan_running">スキャン中…</string>
+    <string name="scan_button_start">Bluetooth スキャン開始</string>
+    <string name="scan_button_stop">スキャン停止</string>
+    <string name="permission_required">Bluetooth の権限が必要です</string>
+    <string name="scanned_devices">スキャンされたデバイス:</string>
+</resources>
